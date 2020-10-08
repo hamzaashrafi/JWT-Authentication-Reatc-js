@@ -1,0 +1,22 @@
+.align-center {
+    position: absolute;
+    width: 50%;
+    top: 30%;
+    left: 30%;
+}
+
+.signup_align {
+    position: absolute;
+    width: 75%;
+    top: 21%;
+    left: 13%;
+}
+.displayFlex {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+b {
+    cursor: pointer;
+}
